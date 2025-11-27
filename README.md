@@ -1,4 +1,4 @@
-# Ciao, sono [Gaetano]! 👋
+# Ciao, sono Gaetano! 👋
 
 ### Studente di Ingegneria Informatica | Java & C Developer | Tech Enthusiast | TLC Enthusiast
 
@@ -46,4 +46,4 @@ Sono il creatore di un tool per scansionare le celle 2G/3G e 4G(con un focus, pe
 ---
 
 
-⭐️ From [Gaetano]
+⭐️ Buona giornata, e grazie per la visione!
