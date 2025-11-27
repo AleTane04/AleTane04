@@ -14,7 +14,7 @@ Sono il creatore di un tool per scansionare le celle 2G/3G e 4G(con un focus, pe
 - 🔭 Attualmente sto lavorando a: **Gestione di una Biblioteca**, un gestionale completo in JavaFX.
 - 🌱 Sto approfondendo: **Design Patterns (MVC), UML e Software Architecture**.
 - 👯 Ho sviluppato: AllScan, un tool per scansionare le celle telefoniche, che trovi all'indirizzo <https://bancomalte.github.io>.
-- ⚡ Fun fact: **Adoro scoprire nuove cose, soprattutto concernenti le telecomunicazioni! **.
+- ⚡ Fun fact: **Adoro scoprire nuove cose, soprattutto concernenti le telecomunicazioni!**.
 
 ---
 
