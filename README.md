@@ -1,20 +1,20 @@
-# Ciao, sono Gaetano! 👋
+# Ciao, sono Gaetano Alessio! 👋
 
 ### Studente di Ingegneria Informatica | Java & C Developer | Tech Enthusiast | TLC Enthusiast
 
 Ciao!
 Benvenuto nel mio profilo GitHub! 
 Sono uno studente appassionato telecomunicazioni e del mondo tech in generale.
-Sono il creatore di un tool per scansionare le celle 2G/3G e 4G(con un focus, per quest'ultimo, per la scansione degli eNodeB).
+Sono il creatore di un tool per scansionare le celle 2G/3G e 4G(con un focus, per queste ultime, sulla scansione degli eNodeB associati).
 
 ---
 
 ### 🚀 Chi sono
 - 🎓 Sto studiando **Ingegneria Informatica** presso **l'Università degli Studi di Salerno**.
-- 🔭 Attualmente sto lavorando a: **Gestione di una Biblioteca**, un gestionale completo in JavaFX.
+- 🔭 Attualmente sto lavorando a: Software **Gestione di una Biblioteca**, un gestionale completo in JavaFX, per il progetto dell'esame di Ingegneria del Software A.A. 2025/2026 .
 - 🌱 Sto approfondendo: **Design Patterns (MVC), UML e Software Architecture**.
 - 👯 Ho sviluppato: AllScan, un tool per scansionare le celle telefoniche, che trovi all'indirizzo <https://bancomalte.github.io>.
-- ⚡ Fun fact: **Adoro scoprire nuove cose, soprattutto concernenti le telecomunicazioni!**.
+- ⚡ Fun fact: **Adoro scoprire nuove cose, soprattutto concernenti le telecomunicazioni!**
 
 ---
 
