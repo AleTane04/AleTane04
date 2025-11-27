@@ -13,7 +13,7 @@ Sono il creatore di un tool per scansionare le celle 2G/3G e 4G(con un focus, pe
 - 🎓 Sto studiando **Ingegneria Informatica** presso **l'Università degli Studi di Salerno**.
 - 🔭 Attualmente sto lavorando a: **Gestione di una Biblioteca**, un gestionale completo in JavaFX.
 - 🌱 Sto approfondendo: **Design Patterns (MVC), UML e Software Architecture**.
-- 👯 Cerco collaborazione su: Progetti Java open source e tool di produttività.
+- 👯 Ho sviluppato: AllScan, un tool per scansionare le celle telefoniche, che trovi all'indirizzo bancomalte.github.io.
 - ⚡ Fun fact: **Adoro scoprire nuove cose, soprattutto concernenti le telecomunicazioni! **.
 
 ---
